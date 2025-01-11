@@ -1,6 +1,6 @@
  👋 Hi, I’m @Ridwanayinde
 
-- 👀 I’m interested in machine learning/AI and devops.
+- 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on recommendations on websites,
   ride-hailing/sharing models, and more.
