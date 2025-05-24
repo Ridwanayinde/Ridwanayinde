@@ -1,10 +1,17 @@
- 👋 Hi, I’m @Ridwanayinde
+ ### 🙋 Hi there, I'm Ridwan Ayinde
+ 
+ Skilled in **Python** and **SQL**, with hands-on experience in 
+ building **data pipelines** and **machine learning workflows**.
 
-- 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently learning python
+- 👀 Passionate about **Data** and **Machine Learning Engineering**.
+- 🛠️ Building real-world projects using **Python** and **SQL**
+     focusing on local and open-source tools such as **Pandas**,
+     **SQLite**,**Apache Airflow**
 - 💞️ I’m looking to collaborate on recommendations on websites,
   ride-hailing/sharing models, and more.
-- 📫 How to reach me <www.linkedin.com/in/ridwanayinde> or <https://x.com/RidwanAyinde25>
+- 📫 Reach me on:
+  - [LinkedIn](https://www.linkedin.com/in/ridwanayinde)
+  - [Twitter/X](https://x.com/RidwanAyinde25)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading books related to business and personal development.
   
