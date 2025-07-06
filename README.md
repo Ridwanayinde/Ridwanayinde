@@ -3,10 +3,11 @@
  Skilled in **Python** and **SQL**, with hands-on experience in 
  building **data pipelines** and **machine learning workflows**.
 
-- 👀 Passionate about **Data** and **Machine Learning Engineering**.
+- 👀 Passionate about **Data Analytics**, **Data Engineering**
+  and **Machine Learning Engineering**.
 - 🛠️ Building real-world projects using **Python** and **SQL**
      focusing on local and open-source tools such as **Pandas**,
-     **SQLite**,**Apache Airflow**
+     and **SQLite**
 - 💞️ I’m looking to collaborate on recommendations on websites,
   ride-hailing/sharing models, and more.
 - 📫 Reach me on:
