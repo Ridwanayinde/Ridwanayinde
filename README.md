@@ -3,13 +3,13 @@
  Skilled in **Python** and **SQL**, with hands-on experience in 
  building **data pipelines** and **machine learning workflows**.
 
-- 👀 Passionate about **Data Analytics**, **Data Engineering**
-  and **Machine Learning Engineering**.
+- 👀 Passionate about **Machine Learning Engineering**, **Data Analytics**
+  and **Data Engineering**.
 - 🛠️ Building real-world projects using **Python** and **SQL**
      focusing on local and open-source tools such as **Pandas**,
      and **SQLite**
-- 💞️ I’m looking to collaborate on recommendations on websites,
-  ride-hailing/sharing models, and more.
+- 💞️ Open to collaborating on recommendations systems,ride-hailing
+  /sharing models, and more.
 - 📫 Reach me on:
   - [LinkedIn](https://www.linkedin.com/in/ridwanayinde)
   - [Twitter/X](https://x.com/RidwanAyinde25)
