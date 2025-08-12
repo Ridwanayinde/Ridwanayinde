@@ -1,14 +1,14 @@
- ### 🙋 Hi there, I'm Ridwan Ayinde
- 
- Skilled in **Python** and **SQL**, with hands-on experience in 
- building **data pipelines** and **machine learning workflows**.
+ # 🙋 Hi there, I'm Ridwan
+
+Skilled in **Python** and **SQL**, with hands-on experience in
+building **data pipelines** and **machine learning workflows**.
 
 - 👀 Passionate about **Machine Learning Engineering**, **Data Analytics**
   and **Data Engineering**.
-- 🛠️ Building real-world projects using **Python** and **SQL**
+- 🛠️ Building real-world projects using **Python** and **SQL**,
      focusing on local and open-source tools such as **Pandas**,
      and **SQLite**
-- 💞️ Open to collaborating on recommendations systems,ride-hailing
+- 💞️ Open to collaborating on recommendation systems, ride-hailing
   /sharing models, and more.
 - 📫 Reach me on:
   - [LinkedIn](https://www.linkedin.com/in/ridwanayinde)
