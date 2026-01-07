@@ -1,5 +1,4 @@
- # 🙋 Hi there, I’m a **Data Analyst** skilled in Python and SQL, with hands-on experience in
-building **data pipelines, dashboards, and analytics solutions**.
+ # 🙋 Hi there, I’m a **Data Analyst** skilled in Python and SQL, with hands-on experience in building **data pipelines, dashboards, and analytics solutions**.
 
 - 👀 Passionate about turning data into actionable insights for **Operations, Logistics, Energy, and Supply Chain**.
 - 🛠️ Building practical projects using **Python, SQL, Pandas, and SQLite**, focused on **real-world, open-source solutions**.
