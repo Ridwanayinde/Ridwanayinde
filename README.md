@@ -1,21 +1,16 @@
- # 🙋 Hi there, I’m a **Data Analyst** skilled in Python and SQL, with hands-on
- # experience in building **data pipelines, dashboards, and analytics solutions**.
+# 🙋 Hi there, I’m a **Data Analyst** with strong skills in **Python and SQL**, experienced in building **data pipelines, dashboards, and analytical solutions** that support better decision-making.
 
-- 👀 Passionate about turning data into actionable insights for **Operations,
-   Logistics, Energy, and Supply Chain**.
-- 🛠️ Building practical projects using **Python, SQL, Pandas, and SQLite**,
-  focused on **real-world, open-source solutions**.
-- 💡 Interests: improving operational efficiency, business processes, and data-driven
-   decision-making across multiple domains.
-- 💞️ Open to collaborating on data-driven projects that solve real-world problems
+- 🔍 Focused on transforming raw data into actionable insights for **Operations, Logistics, Energy, and Supply Chain** use cases.
+- 🛠️ Hands-on experience building practical, end-to-end projects using **Python, SQL, Pandas, and SQLite**, with an emphasis on **real-world, open-source problems**.
+- 📊 Interested in improving **operational efficiency, business processes, and data-driven decision-making** across multiple industries.
+- 🤝 Open to collaborating on impactful **data analytics projects** that solve real-world challenges.
 - 📫 Reach me on:
   - [LinkedIn](https://www.linkedin.com/in/ridwanayinde)
   - [Twitter/X](https://x.com/RidwanAyinde25)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading books related to **business, analytics, and personal development**.
-  
+- ⚡ Fun fact: I enjoy reading books on **business, analytics, and personal development**.
+
 <!---
-Ridwanayinde/Ridwanayinde is a ✨ special ✨ repository because its `README.md` 
-(this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Ridwanayinde/Ridwanayinde is a ✨ special ✨ repository because its `README.md`
+appears on your GitHub profile.
 --->
